@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Aye sup y'all 👋🏽
+
+- 🏢 I'm a Software Engineer making websites and mobile apps for a living
+- 🧰 I build with: `TypeScript`, `React`, `React Native`, `NextJS`, `Prisma` and `Tailwind`.
+- ⚡ I enjoy photography, reading, playing soccer and tennis, and lifting weights.
 
 <!--
 **YannickDot/Yannickdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
