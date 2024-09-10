@@ -9,6 +9,8 @@
 - ⚡ When I am not coding, I enjoy photography, reading, playing soccer and tennis, lifting weights and managing my home automation and servers.
 
 **Because of this ongoing AI mania and trend of using public data to train AI models like Github Copilot, I now host all my code privately on my private servers using Gitea. 😉**
+**I'll only leave the opensource stuff here**
+
 
 
 
