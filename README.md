@@ -6,7 +6,11 @@
 - 🔭 I’m currently working on my iOS apps :  [GazetteRSS](https://apps.apple.com/fr/app/gazette-rss/id6450015408), [BibleDuo](https://apps.apple.com/fr/app/bibleduo-étudiez-la-bible/id6502559093), [TrailWayGPX](https://apps.apple.com/fr/app/trailway-gpx/id6670142969) and [SursumCorda](https://apps.apple.com/fr/app/sursum-corda/id1615083215)
 - 🌱 I am currently learning Laravel
 - 🧠 I'm looking to collaborate with designers and marketers to build and grow great apps that reach millions.
-- ⚡ I enjoy photography, reading, playing soccer and tennis, and lifting weights.
+- ⚡ When I am not coding, I enjoy photography, reading, playing soccer and tennis, lifting weights and managing my home automation and servers.
+
+** Because of this new trend of AI and public data being used to train AI models like Github Copilot, I now host all my code privately on my private servers using Gitea. **
+
+
 
 
 <!--
