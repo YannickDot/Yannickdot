@@ -8,7 +8,7 @@
 - 🧠 I'm looking to collaborate with designers and marketers to build and grow great apps that reach millions.
 - ⚡ When I am not coding, I enjoy photography, reading, playing soccer and tennis, lifting weights and managing my home automation and servers.
 
-** Because of this new trend of AI and public data being used to train AI models like Github Copilot, I now host all my code privately on my private servers using Gitea. **
+**Because of this ongoing AI mania and trend of using public data to train AI models like Github Copilot, I now host all my code privately on my private servers using Gitea. 😉**
 
 
 
