@@ -1,8 +1,13 @@
-#### Aye sup y'all 👋🏽
+#### Hello 👋🏽
 
-- 🏢 I'm a Software Engineer making websites and mobile apps for a living
-- 🧰 I build with: `TypeScript`, `React`, `React Native`, `NextJS`, `Prisma` and `Tailwind`.
+- 🏢 I am a Software Developer. I help companies and non-profits to build mobile apps and websites.
+- 🧰 I build with: `TypeScript`, `React`, `React Native`, `Prisma` and `Tailwind`, and `Wordpress`
+- 🚢 I have a bias for shipping products and I will use the right tool for each job.
+- 🔭 I’m currently working on [GazetteRSS](https://apps.apple.com/fr/app/gazette-rss/id6450015408), [BibleDuo](https://apps.apple.com/fr/app/bibleduo-étudiez-la-bible/id6502559093), [TrailWayGPX](https://apps.apple.com/fr/app/trailway-gpx/id6670142969) and [SursumCorda](https://apps.apple.com/fr/app/sursum-corda/id1615083215)
+- 🌱 I am currently learning Laravel
+- 🧠 I'm looking to collaborate with designers and marketers to build and grow great apps that reach millions.
 - ⚡ I enjoy photography, reading, playing soccer and tennis, and lifting weights.
+
 
 <!--
 **YannickDot/Yannickdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
