@@ -3,9 +3,9 @@
 - 🏢 I am a Software Developer. I help companies and non-profits to build mobile apps and websites.
 - 🧰 I build with: `TypeScript`, `React`, `React Native`, `Prisma` and `Tailwind`, and `Wordpress`
 - 🚢 I have a bias for shipping products and I will use the right tool for each job.
-- 🔭 I’m currently working on my iOS apps :  [GazetteRSS](https://apps.apple.com/fr/app/gazette-rss/id6450015408), [BibleDuo](https://apps.apple.com/fr/app/bibleduo-étudiez-la-bible/id6502559093), [TrailWayGPX](https://apps.apple.com/fr/app/trailway-gpx/id6670142969) and [SursumCorda](https://apps.apple.com/fr/app/sursum-corda/id1615083215)
+- 🔭 I am working on my iOS apps :  [GazetteRSS](https://apps.apple.com/fr/app/gazette-rss/id6450015408), [BibleDuo](https://apps.apple.com/fr/app/bibleduo-étudiez-la-bible/id6502559093), [TrailWayGPX](https://apps.apple.com/fr/app/trailway-gpx/id6670142969) and [SursumCorda](https://apps.apple.com/fr/app/sursum-corda/id1615083215)
 - 🌱 I am currently learning Laravel
-- 🧠 I'm looking to collaborate with designers and marketers to build and grow great apps that reach millions.
+- 🧠 I'm looking to collaborate with designers and marketers to build and grow great apps.
 - ⚡ When I am not coding, I enjoy photography, reading, playing soccer and tennis, lifting weights and managing my home automation and servers.
 
 **Because of this trend of using public (and private?) data to train AI models like Github Copilot, I now self-host all my code on my private server using Gitea. 😉**
